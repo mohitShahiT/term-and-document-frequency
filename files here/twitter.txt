@@ -1,0 +1,8 @@
+Twitter is an American microblogging and social networking service on which users post
+and interact with messages known as "tweets". Registered users can post, like, and retweet
+tweets, but unregistered users can only read them. Users access Twitter through its website
+interface or its mobile-device application software ("app"), though the service could also be 
+accessed via SMS before April 2020.[13] The service is provided by Twitter, Inc., a corporation 
+based in San Francisco, California, and has more than 25 offices around the world.[14] Tweets were 
+originally restricted to 140 characters, but the limit was doubled to 280 for non-CJK languages in November 2017.[15]
+Audio and video tweets remain limited to 140 seconds for most accounts.
